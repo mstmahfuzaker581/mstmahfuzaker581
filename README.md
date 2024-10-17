@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mst.Mahfuza Akter</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mstmahfuzaker581&label=Profile%20views&color=0e75b6&style=flat" alt="mstmahfuzaker581" /> </p><img align="right" alt="Coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mstmahfuzaker581&label=Profile%20views&color=0e75b6&style=flat" alt="mstmahfuzaker581" /> </p>
+<img align="right" alt="Coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 📫 How to reach me **mstmahfuzaker581@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.facebook.com/share/qtkigzeu3fbepifg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.facebook.com/share/qtkigzeu3fbepifg/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahfuza-akter-557121272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahfuza-akter-557121272/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/share/qtkigzeu3fbepifg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/qtkigzeu3fbepifg/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://codeforces.com/profile/mstmahfuzaker581" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://codeforces.com/profile/mstmahfuzaker581" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/mstmahfuzaker581" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/mstmahfuzaker581" height="30" width="40" /></a>
